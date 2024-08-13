@@ -1,3 +1,4 @@
+import React from 'react';
 import { Package2, Github, Twitter, Linkedin } from "lucide-react";
 import { Link } from "react-router-dom";
 
